@@ -1,5 +1,7 @@
 # FIFA World Cup Interactive Dashboard ⚽🏆
 
+![alt text](Visualisation-1.png)
+
 ## Project Overview
 This interactive visualization tool was designed for the exploration and analysis of FIFA World Cup history[cite: 6, 74]. Using two datasets from the Tidy Tuesday collection (`worldcups.csv` and `wcmatches.csv`), the dashboard enables users to analyze team performance, attendance trends, and scoring evolution[cite: 63, 64, 65].
 
